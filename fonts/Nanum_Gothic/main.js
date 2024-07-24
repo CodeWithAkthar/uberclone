@@ -1,0 +1,3 @@
+showSideBar(){
+    document.getElementsByClassName
+}

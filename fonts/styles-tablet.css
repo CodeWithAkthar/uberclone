@@ -1,0 +1,25 @@
+/* Tablet styles (768px to 1024px width) */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Tablet-specific styles */
+
+    body {
+        padding: 0;
+        background-color: black;
+        margin: 0;
+        text-decoration: none;
+        list-style: none;
+        box-sizing: border-box;
+        font-family: "Vilane Extra Light", Arial, sans-serif;
+      }
+}
+
+
+.page {
+    background-color: red;
+    max-width: 1152px;
+    height: 697px;
+    margin: 64px 64px 64px 64px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+  }
